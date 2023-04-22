@@ -44,7 +44,7 @@
   - Note
 
     `config.yaml` and `dashboard` are requried。  
-    `dashboard` can download from [here](https://github.com/Dreamacro/clash-dashboard/tree/gh-pages)。
+    `dashboard` can download from [here](https://github.com/Dreamacro/clash-dashboard/tree/gh-pages)。  
     Add your subscribe address to `./custom_rules/direct.yaml` file.
 
 - [config.yaml](https://github.com/picopock/clash_premium_config/blob/master/config/config.yaml)
